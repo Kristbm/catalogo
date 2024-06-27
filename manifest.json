@@ -1,9 +1,9 @@
 {
     "name": "Confiteria Roray",
-    "short_name": "Roray",
+    "short_name": "Catalogo Roray",
     "description": "Bienvenido a tu confiteria preferida",
-    "background_color": "#2B2B2B",
-    "theme_color": "#F0DB4F",
+    "background_color": "#000000",
+    "theme_color": "#000000",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest",
