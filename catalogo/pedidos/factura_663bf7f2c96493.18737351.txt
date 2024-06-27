@@ -1,0 +1,11 @@
+Número de Pedido: PEDIDO_663bf7f2c66244.19300414
+
+Detalles del Pedido:
+- Producto: CHAO CARAMELO X100 SANDIA 100X24, Cantidad: 1, Precio Unitario: 
+- Producto: PALITOS CHOCO XL 150GR X50, Cantidad: 3, Precio Unitario: 
+- Producto: CHUP BIG BOM DIAMANTE X8, Cantidad: 1, Precio Unitario: 
+- Producto: TOM GRANDE 80GR X4, Cantidad: 1, Precio Unitario: 
+- Producto: TIP TOP TUB MANI X48, Cantidad: 1, Precio Unitario: 
+- Producto: TIP TOP TUB CHOCO/MANI X48, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

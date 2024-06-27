@@ -1,0 +1,9 @@
+Número de Pedido: PEDIDO_663e5eb128f946.17811164
+
+Detalles del Pedido:
+- Producto: 77 AZUL VAINILLA/CHOCOLATE X6, Cantidad: 1
+
+Nombre del Cliente: angel
+Cédula del Cliente: 29686609
+Teléfono del Cliente: 04242564830
+Fecha del Pedido: 2024-05-10 19:51:45

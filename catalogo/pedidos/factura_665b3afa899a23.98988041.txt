@@ -1,0 +1,6 @@
+Número de Pedido: PEDIDO_665b3afa87ba16.58618099
+
+Detalles del Pedido:
+- Producto: CHOCO + GALLETA BOLA OJO X20, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

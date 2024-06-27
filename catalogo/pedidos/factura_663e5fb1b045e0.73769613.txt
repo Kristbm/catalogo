@@ -1,0 +1,9 @@
+Número de Pedido: PEDIDO_663e5fb1af57c0.49165070
+
+Detalles del Pedido:
+- Producto: AROR BON O BON CHOCO CHOCO 225GR X20, Cantidad: 1
+
+Nombre del Cliente: Briant 
+Cédula del Cliente: 30513821
+Teléfono del Cliente: 04241132436
+Fecha del Pedido: 2024-05-10 19:56:01

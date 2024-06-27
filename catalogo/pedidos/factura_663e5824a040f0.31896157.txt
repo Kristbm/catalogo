@@ -1,0 +1,9 @@
+Número de Pedido: PEDIDO_663e58249e0b35.78975281
+
+Detalles del Pedido:
+- Producto: BIANCHI SNACKS CHOCO/MANI 50GR X24, Cantidad: 1
+
+Nombre del Cliente: Briant
+Cédula del Cliente: 30513821
+Teléfono del Cliente: 04241132436
+Fecha del Pedido: 2024-05-10 19:23:48

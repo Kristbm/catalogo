@@ -1,0 +1,11 @@
+Número de Pedido: PEDIDO_663e579fd6a094.70565589
+
+Detalles del Pedido:
+- Producto: 77 AZUL VAINILLA/CHOCOLATE X6, Cantidad: 1
+
+Nombre del Cliente: Briant
+Cédula del Cliente: 30513821
+Teléfono del Cliente: 04241132436
+Fecha del Pedido: 2024-05-10 19:21:35
+
+Total del Pedido: 0

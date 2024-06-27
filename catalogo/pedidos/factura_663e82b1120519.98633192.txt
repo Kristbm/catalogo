@@ -1,0 +1,6 @@
+Número de Pedido: PEDIDO_663e82b110eec7.11833635
+
+Detalles del Pedido:
+- Producto: CHARMY TUB CHOCOLATE X24, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0
