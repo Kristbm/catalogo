@@ -1,0 +1,30 @@
+Número de Pedido: PEDIDO_6650e5358c79e6.17764937
+
+Detalles del Pedido:
+- Producto: 77 ROJO CHOCO/CHOCOLATE X6, Cantidad: 1, Precio Unitario: 
+- Producto: CARAMELO ALOKADOS CHOCOLATE 100X20, Cantidad: 3, Precio Unitario: 
+- Producto: CHOCO MUUU X24, Cantidad: 2, Precio Unitario: 
+- Producto: CHOCOSTICK X12, Cantidad: 4, Precio Unitario: 
+- Producto: MAIZORITOS CHOCO SAFARI 240GR X12, Cantidad: 1, Precio Unitario: 
+- Producto: PALITOS CHOCO XL 150GR X50, Cantidad: 2, Precio Unitario: 
+- Producto: LA BOTELLITA CHICLES X24, Cantidad: 3, Precio Unitario: 
+- Producto: MINI CHICLE TATOO BOLSA 150X24, Cantidad: 1, Precio Unitario: 
+- Producto: CARAMELO ALOKADOS SURTIDOS 100X20, Cantidad: 2, Precio Unitario: 
+- Producto: CARAMELO FLORESTAL 250GR FRUTA SURT X60, Cantidad: 1, Precio Unitario: 
+- Producto: CARAMELO FLORESTAL YOGURT 250GR 100X60, Cantidad: 3, Precio Unitario: 
+- Producto: CARAMELO MINI BUM SURT 100X32, Cantidad: 1, Precio Unitario: 
+- Producto: CHAO X100 CARAMELO MORA AZUL 100X24, Cantidad: 1, Precio Unitario: 
+- Producto: LOKINO CARAMELO 100X24, Cantidad: 1, Precio Unitario: 
+- Producto: PIETROBON CARAMELO FRESA 250GR X34 , Cantidad: 1, Precio Unitario: 
+- Producto: REVOLCON CARAMELO X12, Cantidad: 2, Precio Unitario: 
+- Producto: GOMITA PLAY OINK 500GR 100X6, Cantidad: 1, Precio Unitario: 
+- Producto: GOMITAS FAST FOOD X24, Cantidad: 1, Precio Unitario: 
+- Producto: CHEESE TRIS 150GR GRANDE X22, Cantidad: 23, Precio Unitario: 
+- Producto: TOM GRANDE 80GR X4, Cantidad: 1, Precio Unitario: 
+- Producto: SUPER POPPY PEQ 24UNDS 12GR X6, Cantidad: 2, Precio Unitario: 
+- Producto: NESTLE COCOSETTE MAXI 50GR 18X12, Cantidad: 1, Precio Unitario: 
+- Producto: NUCITA WAFFER X24, Cantidad: 3, Precio Unitario: 
+- Producto: NUCITA CREMA 12X24, Cantidad: 1, Precio Unitario: 
+- Producto: BUBBALOO CEREZA 70X32, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

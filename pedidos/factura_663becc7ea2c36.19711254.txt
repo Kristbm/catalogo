@@ -1,0 +1,7 @@
+Número de Pedido: PEDIDO_663becb7aaa799.60540119
+
+Detalles del Pedido:
+- Producto: ARCOR BON O BON 450GR X12, Cantidad: 1, Precio Unitario: 
+- Producto: AGOGO CHICLE BOLA MENTA 24X30, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

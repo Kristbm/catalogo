@@ -1,0 +1,7 @@
+Número de Pedido: PEDIDO_663be4358d1312.64019017
+
+Detalles del Pedido:
+- Producto: ARCOR BON O BON 450GR X12, Cantidad: 10, Precio Unitario: 
+- Producto: FLIPS 120G CHOCOLATE X14, Cantidad: 5, Precio Unitario: 
+
+Total del Pedido: 0

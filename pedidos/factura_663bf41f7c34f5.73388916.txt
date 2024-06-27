@@ -1,0 +1,10 @@
+Número de Pedido: PEDIDO_663bf41f79bb42.00219427
+
+Detalles del Pedido:
+- Producto: AREQUIPE 250GR + OBLEAS CATTONI X12, Cantidad: 1, Precio Unitario: 
+- Producto: AREQUIPE PIOTELLO 1KG X12, Cantidad: 1, Precio Unitario: 
+- Producto: BELVITA HONY X20, Cantidad: 1, Precio Unitario: 
+- Producto: FLIPS 120G CHOCOLATE X14, Cantidad: 34, Precio Unitario: 
+- Producto: FLIPS 120G EXTRA/CHOCOLATE X14, Cantidad: 17, Precio Unitario: 
+
+Total del Pedido: 0

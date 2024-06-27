@@ -1,0 +1,32 @@
+// Evento click para mostrar los detalles del producto en el modal
+      $(document).on('click', '.view-more-btn', function () {
+        var productId = $(this).data('product-id');
+        $.ajax({
+          url: 'src_detalle_producto.php',
+          type: 'POST',
+          data: { productId: productId },
+          dataType: 'json',
+          success: function (response) {
+            // Mostrar los detalles del producto en el modal
+            $('#modal-product-image').attr('src', 'img/' + response.codigo + '.png');
+            $('#modal-product-title').text(response.descripcion);
+            $('#modal-product-price').text(response.precio + '$');
+            $('#modal-product-wholesale-price').text(response.preciomayor + '$');
+            $('#exampleModalCenter').modal('show');
+          },
+          error: function (xhr, status, error) {
+            console.error('Error al cargar detalles del producto:', error);
+          }
+        });
+      });
+
+      output += '<div class="col-md-4 card border-0 shadow-sm rounded-lg">';
+            output += '<div class="product-card ">';
+            output += '<img src="img/' + producto.codigo + '.png" class="card-img-top" alt="' + producto.descripcion + '">';
+            output += '<div class="card-body">';
+            output += '<h6 class="card-title h6">' + producto.descripcion + '</h6>';
+            output += '<span class="badge badge-primary">Precio Unid: ' + producto.precio + '$</span>';
+            output += '<span class="badge badge-success">Precio al Mayor: ' + producto.preciomayor + '$</span>';
+            output += '<button type="button" class="btn btn-light btn-sm mt-2 view-more-btn" data-toggle="modal" data-target="#exampleModalCenter" data-product-id="' + producto.codigo + '">Ver más <i class="fas fa-info"></i></button>'; output += '</div>';
+            output += '</div>';
+            output += '</div>';

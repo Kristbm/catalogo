@@ -1,0 +1,6 @@
+Número de Pedido: PEDIDO_663be392bb66b6.11283170
+
+Detalles del Pedido:
+- Producto: 77 ROJO CHOCO/CHOCOLATE X6, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

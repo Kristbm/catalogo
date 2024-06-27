@@ -1,0 +1,7 @@
+Número de Pedido: PEDIDO_663bf19ab5d5f0.26660633
+
+Detalles del Pedido:
+- Producto: AGOGO CHICLE BOLA MENTA 24X30, Cantidad: 5, Precio Unitario: 
+- Producto: BJ CREAM FRESA 408GR 12X24, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

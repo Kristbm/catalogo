@@ -1,0 +1,6 @@
+Número de Pedido: PEDIDO_663e4e72e7c3f2.44617811
+
+Detalles del Pedido:
+- Producto: NESTLE SAVOY CHOCOLATE LECHE X24, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

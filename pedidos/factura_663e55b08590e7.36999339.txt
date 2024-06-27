@@ -1,0 +1,6 @@
+Número de Pedido: PEDIDO_663e55b0845e43.36364033
+
+Detalles del Pedido:
+- Producto: 77 AZUL VAINILLA/CHOCOLATE X6, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

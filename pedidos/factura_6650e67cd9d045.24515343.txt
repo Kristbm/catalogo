@@ -1,0 +1,11 @@
+Número de Pedido: PEDIDO_6650e67cd77878.51049769
+
+Detalles del Pedido:
+- Producto: TRULULU AROS 6GR 100X18, Cantidad: 1, Precio Unitario: 
+- Producto: FRUNAS SPACIALES X16, Cantidad: 1, Precio Unitario: 
+- Producto: CHUP BIG BOM FRESA X8, Cantidad: 1, Precio Unitario: 
+- Producto: CHUPETA CORAZON CHUPIGOOL 50X50, Cantidad: 1, Precio Unitario: 
+- Producto: CHUPI 15CM PEQ 20X1, Cantidad: 3, Precio Unitario: 
+- Producto: CHUPETA LOKINO FRESA 24X15, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

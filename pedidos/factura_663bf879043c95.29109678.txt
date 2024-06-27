@@ -1,0 +1,7 @@
+Número de Pedido: PEDIDO_663bf87901c863.20063971
+
+Detalles del Pedido:
+- Producto: FLIPS 220G CHOCOLATE CAJA X24, Cantidad: 1, Precio Unitario: 
+- Producto: GALLETA SODA PUIG X24, Cantidad: 1, Precio Unitario: 
+
+Total del Pedido: 0

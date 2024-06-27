@@ -1,0 +1,8 @@
+Número de Pedido: PEDIDO_663bf0ad5facf7.00763855
+
+Detalles del Pedido:
+- Producto: FLIPS 120G CHOCOLATE X14, Cantidad: 10, Precio Unitario: 
+- Producto: FLIPS 220G DULCE LECHE CAJA X24, Cantidad: 5, Precio Unitario: 
+- Producto: ARCOR BON O BON 450GR X12, Cantidad: 5, Precio Unitario: 
+
+Total del Pedido: 0
