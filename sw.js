@@ -3,8 +3,8 @@
 const CACHE_NAME = 'v1_roray',
     urlsToCache = [
         './',
-        'http://186.188.106.101:8080/roray/catalogo/index.html',
-        'http://186.188.106.101:8080/roray/catalogo/catalogo.html',
+        '/roray/catalogo/index.html',
+        '/roray/catalogo/catalogo.html',
         './img/000000001.png',
         './img/000000001.png'
     ]

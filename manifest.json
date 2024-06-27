@@ -6,7 +6,7 @@
     "theme_color": "#F0DB4F",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "http://186.188.106.101:8080/roray/catalogo/index.html",
+    "start_url": "./?utm_source=web_app_manifest",
     "scope": "./",
     "lang": "es-MX",
     "icons": [
