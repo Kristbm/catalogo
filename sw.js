@@ -2,9 +2,8 @@
 //asignar un nombre y versión al cache
 const CACHE_NAME = 'v1_roray',
     urlsToCache = [
-        './',
-        './catalogo/index.html',
-        './catalogo/catalogo.html',
+        '/roray/catalogo/lops.html',
+        '/roray/catalogo/catalogo.html',
         './img/000000001.png',
         './img/000000001.png'
     ]
